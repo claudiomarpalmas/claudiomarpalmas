@@ -3,9 +3,12 @@
 Meu nome é Claudiomar , Area de atuação Redes e Suporte em hadware e software.
 
 <p>
-  <img src="https://gpvc.arturio.dev/iurygdeoliveira" alt="profile views">
-  <img alt="Stars" src="https://img.shields.io/github/stars/iurygdeoliveira/iurygdeoliveira?style=flat-square&labelColor=343b41"/> 
-  <img alt="Forks" src="https://img.shields.io/github/forks/iurygdeoliveira/iurygdeoliveira?style=flat-square&labelColor=343b41"/></p>
+  <img src="https://gpvc.arturio.dev/claudiomarpalmas" alt="profile views">
+  
+  <img alt="Stars" src="https://img.shields.io/github/stars/claudiomarpalmas/claudiomarpalmas?style=flat-square&labelColor=343b41"/> 
+  
+  
+  <img alt="Forks" src="https://img.shields.io/github/forks/claudiomarpalmas/iurygdeoliveira?style=flat-square&labelColor=343b41"/></p>
 </p>
 
 ### Minhas redes:
